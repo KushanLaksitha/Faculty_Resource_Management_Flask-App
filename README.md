@@ -88,7 +88,7 @@ faculty_management_system/
 
 1. **Clone or download the project**
 ```bash
-git clone <repository-url>
+git clone https://github.com/KushanLaksitha/Faculty_Resource_Management_Flask-App.git
 cd faculty_management_system
 ```
 
