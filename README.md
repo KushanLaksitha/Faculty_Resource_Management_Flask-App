@@ -31,15 +31,15 @@ A comprehensive web-based system for managing faculty rooms, equipment, laborato
 ## 📸 Screenshots
 
 ### Dashboard
-![img_alt](https://github.com/KushanLaksitha/Flask-App/blob/main/screenshot/dashboard.png?raw=true)
+![img_alt](https://github.com/KushanLaksitha/Faculty_Resource_Management_Flask-App/blob/main/screenshot/dashboard.png?raw=true)
 
 ### Resource List
 
-![img_alt](https://github.com/KushanLaksitha/Flask-App/blob/main/screenshot/all_resources.png?raw=true)
+![img_alt](https://github.com/KushanLaksitha/Faculty_Resource_Management_Flask-App/blob/main/screenshot/all_resources.png?raw=true)
 
 ### Add/Edit Resource
 
-![img_alt](https://github.com/KushanLaksitha/Flask-App/blob/main/screenshot/addResources.png?raw=true)
+![img_alt](https://github.com/KushanLaksitha/Faculty_Resource_Management_Flask-App/blob/main/screenshot/addResources.png?raw=true)
 
 ## 🛠️ Technology Stack
 
