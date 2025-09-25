@@ -397,7 +397,7 @@ SOFTWARE.
 
 ## 👨‍💻 Authors
 
-- **Your Name** - *Initial work* - [KushanLaksitha](https://github.com/KushanLaksitha/)
+- **Kushan Kumarasiri** - *Initial work* - [KushanLaksitha](https://github.com/KushanLaksitha/)
 
 ## 🙏 Acknowledgments
 
